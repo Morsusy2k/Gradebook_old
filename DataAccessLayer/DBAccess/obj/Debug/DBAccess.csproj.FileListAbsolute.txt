@@ -1,0 +1,9 @@
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DBAccess\bin\Debug\Gradebook.DataAccessLayer.DBAccess.dll.config
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DBAccess\bin\Debug\Gradebook.DataAccessLayer.DBAccess.dll
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DBAccess\bin\Debug\Gradebook.DataAccessLayer.DBAccess.pdb
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DBAccess\bin\Debug\Gradebook.DataAccessLayer.Models.dll
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DBAccess\bin\Debug\Gradebook.DataAccessLayer.Models.pdb
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DBAccess\obj\Debug\DBAccess.csprojResolveAssemblyReference.cache
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DBAccess\obj\Debug\DBAccess.csproj.CoreCompileInputs.cache
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DBAccess\obj\Debug\Gradebook.DataAccessLayer.DBAccess.dll
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DBAccess\obj\Debug\Gradebook.DataAccessLayer.DBAccess.pdb

@@ -1,0 +1,12 @@
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\ConsoleClient\bin\Debug\Gradebook.DataAccessLayer.ConsoleClient.exe.config
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\ConsoleClient\bin\Debug\Gradebook.DataAccessLayer.ConsoleClient.exe
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\ConsoleClient\bin\Debug\Gradebook.DataAccessLayer.ConsoleClient.pdb
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\ConsoleClient\bin\Debug\Gradebook.DataAccessLayer.DBAccess.dll
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\ConsoleClient\bin\Debug\Gradebook.DataAccessLayer.Models.dll
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\ConsoleClient\bin\Debug\Gradebook.DataAccessLayer.DBAccess.pdb
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\ConsoleClient\bin\Debug\Gradebook.DataAccessLayer.DBAccess.dll.config
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\ConsoleClient\bin\Debug\Gradebook.DataAccessLayer.Models.pdb
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\ConsoleClient\obj\Debug\Gradebook.DataAccessLayer.ConsoleClient.exe
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\ConsoleClient\obj\Debug\Gradebook.DataAccessLayer.ConsoleClient.pdb
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache

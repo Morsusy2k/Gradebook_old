@@ -1,0 +1,12 @@
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DataSeeder\bin\Debug\Gradebook.DataAccessLayer.DataSeeder.exe.config
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DataSeeder\bin\Debug\Gradebook.DataAccessLayer.DataSeeder.exe
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DataSeeder\bin\Debug\Gradebook.DataAccessLayer.DataSeeder.pdb
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DataSeeder\bin\Debug\Gradebook.DataAccessLayer.DBAccess.dll
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DataSeeder\bin\Debug\Gradebook.DataAccessLayer.Models.dll
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DataSeeder\bin\Debug\Gradebook.DataAccessLayer.DBAccess.pdb
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DataSeeder\bin\Debug\Gradebook.DataAccessLayer.DBAccess.dll.config
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DataSeeder\bin\Debug\Gradebook.DataAccessLayer.Models.pdb
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DataSeeder\obj\Debug\DataSeeder.csprojResolveAssemblyReference.cache
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DataSeeder\obj\Debug\DataSeeder.csproj.CoreCompileInputs.cache
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DataSeeder\obj\Debug\Gradebook.DataAccessLayer.DataSeeder.exe
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DataSeeder\obj\Debug\Gradebook.DataAccessLayer.DataSeeder.pdb

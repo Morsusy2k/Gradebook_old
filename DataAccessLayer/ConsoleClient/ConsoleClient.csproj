@@ -58,11 +58,11 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DataAccessLayer\DBAccess\DBAccess.csproj">
+    <ProjectReference Include="..\DBAccess\DBAccess.csproj">
       <Project>{db2d6c44-f10a-46e3-be22-b125d941e189}</Project>
       <Name>DBAccess</Name>
     </ProjectReference>
-    <ProjectReference Include="..\DataAccessLayer\Models\Models.csproj">
+    <ProjectReference Include="..\Models\Models.csproj">
       <Project>{84bae83a-8df5-4ed4-a285-4eec55f32d19}</Project>
       <Name>Models</Name>
     </ProjectReference>

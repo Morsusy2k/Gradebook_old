@@ -50,6 +50,22 @@ namespace Gradebook.DataAccessLayer.DBAccess
             }
         }
 
+        public IEnumerable<SubjectLesson> GetAllByGradebookId(MGradebook gradebook)
+        {
+            using (SqlCommand command = new SqlCommand("EXEC SubjectLessonGetAllByGradebookId @Id", connection))
+            {
+                command.Parameters.Add("@Id",SqlDbType.Int).Value = gradebook.Id;
+                using (SqlDataReader reader = command.ExecuteReader())
+                {
+                    List<SubjectLesson> subjectsLessons = new List<SubjectLesson>();
+                    while (reader.Read())
+                        subjectsLessons.Add(CreateSubjectLesson(reader));
+
+                    return subjectsLessons;
+                }
+            }
+        }
+
         public int Insert(SubjectLesson subjectLesson)
         {
             if (subjectLesson == null)

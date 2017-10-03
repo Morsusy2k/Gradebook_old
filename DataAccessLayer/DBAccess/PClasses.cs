@@ -66,6 +66,23 @@ namespace Gradebook.DataAccessLayer.DBAccess
             }
         }
 
+        public IEnumerable<PClass> GetAllByYear(string year)
+        {
+            using (SqlCommand command = new SqlCommand("EXEC PClassGetByYear @Id", connection))
+            {
+                command.Parameters.Add("@Year", SqlDbType.NVarChar).Value = year;
+
+                using (SqlDataReader reader = command.ExecuteReader())
+                {
+                    List<PClass> pclasses = new List<PClass>();
+                    while (reader.Read())
+                        pclasses.Add(CreatePClass(reader));
+
+                    return pclasses;
+                }
+            }
+        }
+
         public int Insert(PClass pClass)
         {
             if (pClass == null)

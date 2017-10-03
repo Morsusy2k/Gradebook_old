@@ -50,6 +50,22 @@ namespace Gradebook.DataAccessLayer.DBAccess
             }
         }
 
+        public IEnumerable<Mark> GetAllByMarksId(Marks tmarks)
+        {
+            using (SqlCommand command = new SqlCommand("EXEC MarkGetAllByMarksId @Id", connection))
+            {
+                command.Parameters.Add("@Id",SqlDbType.Int).Value = tmarks.Id;
+                using (SqlDataReader reader = command.ExecuteReader())
+                {
+                    List<Mark> marks = new List<Mark>();
+                    while (reader.Read())
+                        marks.Add(CreateMark(reader));
+
+                    return marks;
+                }
+            }
+        }
+
         public int Insert(Mark mark)
         {
             if (mark == null)

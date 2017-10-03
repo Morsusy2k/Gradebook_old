@@ -49,6 +49,21 @@ namespace Gradebook.DataAccessLayer.DBAccess
             }
         }
 
+        public IEnumerable<MGradebook> GetAllEditable()
+        {
+            using (SqlCommand command = new SqlCommand("EXEC GradebookGetAllEditable", connection))
+            {
+                using (SqlDataReader reader = command.ExecuteReader())
+                {
+                    List<MGradebook> gradebook = new List<MGradebook>();
+                    while (reader.Read())
+                        gradebook.Add(CreateGradebook(reader));
+
+                    return gradebook;
+                }
+            }
+        }
+
         public int Insert(MGradebook gradebook)
         {
             if (gradebook == null)

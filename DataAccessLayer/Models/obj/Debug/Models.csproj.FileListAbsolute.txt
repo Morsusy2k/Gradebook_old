@@ -4,3 +4,9 @@ C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\Models\obj\Deb
 C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
 C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\Models\obj\Debug\Gradebook.DataAccessLayer.Models.dll
 C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\Models\obj\Debug\Gradebook.DataAccessLayer.Models.pdb
+D:\Max\Projects\Gradebook\DataAccessLayer\Models\bin\Debug\Gradebook.DataAccessLayer.Models.dll
+D:\Max\Projects\Gradebook\DataAccessLayer\Models\bin\Debug\Gradebook.DataAccessLayer.Models.pdb
+D:\Max\Projects\Gradebook\DataAccessLayer\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Max\Projects\Gradebook\DataAccessLayer\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Max\Projects\Gradebook\DataAccessLayer\Models\obj\Debug\Gradebook.DataAccessLayer.Models.dll
+D:\Max\Projects\Gradebook\DataAccessLayer\Models\obj\Debug\Gradebook.DataAccessLayer.Models.pdb

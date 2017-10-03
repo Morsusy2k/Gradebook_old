@@ -7,3 +7,12 @@ C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DBAccess\obj\D
 C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DBAccess\obj\Debug\DBAccess.csproj.CoreCompileInputs.cache
 C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DBAccess\obj\Debug\Gradebook.DataAccessLayer.DBAccess.dll
 C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DBAccess\obj\Debug\Gradebook.DataAccessLayer.DBAccess.pdb
+D:\Max\Projects\Gradebook\DataAccessLayer\DBAccess\bin\Debug\Gradebook.DataAccessLayer.DBAccess.dll.config
+D:\Max\Projects\Gradebook\DataAccessLayer\DBAccess\bin\Debug\Gradebook.DataAccessLayer.DBAccess.dll
+D:\Max\Projects\Gradebook\DataAccessLayer\DBAccess\bin\Debug\Gradebook.DataAccessLayer.DBAccess.pdb
+D:\Max\Projects\Gradebook\DataAccessLayer\DBAccess\bin\Debug\Gradebook.DataAccessLayer.Models.dll
+D:\Max\Projects\Gradebook\DataAccessLayer\DBAccess\bin\Debug\Gradebook.DataAccessLayer.Models.pdb
+D:\Max\Projects\Gradebook\DataAccessLayer\DBAccess\obj\Debug\DBAccess.csprojResolveAssemblyReference.cache
+D:\Max\Projects\Gradebook\DataAccessLayer\DBAccess\obj\Debug\DBAccess.csproj.CoreCompileInputs.cache
+D:\Max\Projects\Gradebook\DataAccessLayer\DBAccess\obj\Debug\Gradebook.DataAccessLayer.DBAccess.dll
+D:\Max\Projects\Gradebook\DataAccessLayer\DBAccess\obj\Debug\Gradebook.DataAccessLayer.DBAccess.pdb

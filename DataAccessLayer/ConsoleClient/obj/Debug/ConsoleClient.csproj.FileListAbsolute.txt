@@ -22,3 +22,15 @@ C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\ConsoleClient\
 C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCompileInputs.cache
 C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\ConsoleClient\obj\Debug\Gradebook.DataAccessLayer.ConsoleClient.exe
 C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\ConsoleClient\obj\Debug\Gradebook.DataAccessLayer.ConsoleClient.pdb
+D:\Max\Projects\Gradebook\DataAccessLayer\ConsoleClient\bin\Debug\Gradebook.DataAccessLayer.ConsoleClient.exe.config
+D:\Max\Projects\Gradebook\DataAccessLayer\ConsoleClient\bin\Debug\Gradebook.DataAccessLayer.ConsoleClient.exe
+D:\Max\Projects\Gradebook\DataAccessLayer\ConsoleClient\bin\Debug\Gradebook.DataAccessLayer.ConsoleClient.pdb
+D:\Max\Projects\Gradebook\DataAccessLayer\ConsoleClient\bin\Debug\Gradebook.DataAccessLayer.DBAccess.dll
+D:\Max\Projects\Gradebook\DataAccessLayer\ConsoleClient\bin\Debug\Gradebook.DataAccessLayer.Models.dll
+D:\Max\Projects\Gradebook\DataAccessLayer\ConsoleClient\bin\Debug\Gradebook.DataAccessLayer.DBAccess.pdb
+D:\Max\Projects\Gradebook\DataAccessLayer\ConsoleClient\bin\Debug\Gradebook.DataAccessLayer.DBAccess.dll.config
+D:\Max\Projects\Gradebook\DataAccessLayer\ConsoleClient\bin\Debug\Gradebook.DataAccessLayer.Models.pdb
+D:\Max\Projects\Gradebook\DataAccessLayer\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+D:\Max\Projects\Gradebook\DataAccessLayer\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCompileInputs.cache
+D:\Max\Projects\Gradebook\DataAccessLayer\ConsoleClient\obj\Debug\Gradebook.DataAccessLayer.ConsoleClient.exe
+D:\Max\Projects\Gradebook\DataAccessLayer\ConsoleClient\obj\Debug\Gradebook.DataAccessLayer.ConsoleClient.pdb

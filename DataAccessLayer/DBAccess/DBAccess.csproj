@@ -31,6 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -40,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Constants\Constants.cs" />
     <Compile Include="DBAGradebook.cs" />
     <Compile Include="DBHelper\DBHelper.cs" />
     <Compile Include="FieldOfStudies.cs" />
@@ -60,6 +62,10 @@
     <Compile Include="Users.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\Repository\Repositories.csproj">
+      <Project>{10b03043-308c-44e1-bb30-bbd2392b1927}</Project>
+      <Name>Repositories</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Models\Models.csproj">
       <Project>{84bae83a-8df5-4ed4-a285-4eec55f32d19}</Project>
       <Name>Models</Name>

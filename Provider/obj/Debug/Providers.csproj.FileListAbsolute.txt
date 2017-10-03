@@ -1,0 +1,10 @@
+D:\Max\Projects\Gradebook\Provider\obj\Debug\Providers.csproj.CoreCompileInputs.cache
+D:\Max\Projects\Gradebook\Provider\obj\Debug\Providers.csprojResolveAssemblyReference.cache
+D:\Max\Projects\Gradebook\Provider\bin\Debug\Gradebook.RepositoryLayer.Providers.dll
+D:\Max\Projects\Gradebook\Provider\bin\Debug\Gradebook.RepositoryLayer.Providers.pdb
+D:\Max\Projects\Gradebook\Provider\bin\Debug\Gradebook.DataAccessLayer.Models.dll
+D:\Max\Projects\Gradebook\Provider\bin\Debug\Gradebook.RepositoryLayer.Transactions.dll
+D:\Max\Projects\Gradebook\Provider\bin\Debug\Gradebook.DataAccessLayer.Models.pdb
+D:\Max\Projects\Gradebook\Provider\bin\Debug\Gradebook.RepositoryLayer.Transactions.pdb
+D:\Max\Projects\Gradebook\Provider\obj\Debug\Gradebook.RepositoryLayer.Providers.dll
+D:\Max\Projects\Gradebook\Provider\obj\Debug\Gradebook.RepositoryLayer.Providers.pdb

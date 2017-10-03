@@ -1,0 +1,7 @@
+D:\Max\Projects\Gradebook\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+D:\Max\Projects\Gradebook\Repository\bin\Debug\Gradebook.RepositoryLayer.Repository.dll
+D:\Max\Projects\Gradebook\Repository\bin\Debug\Gradebook.RepositoryLayer.Repository.pdb
+D:\Max\Projects\Gradebook\Repository\bin\Debug\Gradebook.DataAccessLayer.Models.dll
+D:\Max\Projects\Gradebook\Repository\bin\Debug\Gradebook.DataAccessLayer.Models.pdb
+D:\Max\Projects\Gradebook\Repository\obj\Debug\Gradebook.RepositoryLayer.Repository.dll
+D:\Max\Projects\Gradebook\Repository\obj\Debug\Gradebook.RepositoryLayer.Repository.pdb

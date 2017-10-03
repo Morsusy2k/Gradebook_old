@@ -1,0 +1,5 @@
+D:\Max\Projects\Gradebook\Transactions\bin\Debug\Gradebook.RepositoryLayer.Transactions.dll
+D:\Max\Projects\Gradebook\Transactions\bin\Debug\Gradebook.RepositoryLayer.Transactions.pdb
+D:\Max\Projects\Gradebook\Transactions\obj\Debug\Transactions.csproj.CoreCompileInputs.cache
+D:\Max\Projects\Gradebook\Transactions\obj\Debug\Gradebook.RepositoryLayer.Transactions.dll
+D:\Max\Projects\Gradebook\Transactions\obj\Debug\Gradebook.RepositoryLayer.Transactions.pdb

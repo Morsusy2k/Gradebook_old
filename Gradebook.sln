@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.10
+VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccessLayer", "DataAccessLayer", "{57EE51A0-7E9C-439D-A744-4C5CE97FDEFA}"
 EndProject
@@ -23,7 +23,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "DataAccess
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RepositoryLayer", "RepositoryLayer", "{71E8931B-F0D7-4370-A218-F9F7EB7D378A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repository\Repositories.csproj", "{10B03043-308C-44E1-BB30-BBD2392B1927}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "RepositoryLayer\Repository\Repositories.csproj", "{10B03043-308C-44E1-BB30-BBD2392B1927}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

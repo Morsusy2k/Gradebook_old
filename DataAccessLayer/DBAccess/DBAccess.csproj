@@ -62,7 +62,7 @@
     <Compile Include="Users.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Repository\Repositories.csproj">
+    <ProjectReference Include="..\..\RepositoryLayer\Repository\Repositories.csproj">
       <Project>{10b03043-308c-44e1-bb30-bbd2392b1927}</Project>
       <Name>Repositories</Name>
     </ProjectReference>

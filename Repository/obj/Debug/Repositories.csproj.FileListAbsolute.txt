@@ -1,8 +1,0 @@
-D:\Max\Projects\Gradebook\Repository\bin\Debug\Gradebook.RepositoryLayer.Repositories.dll
-D:\Max\Projects\Gradebook\Repository\bin\Debug\Gradebook.RepositoryLayer.Repositories.pdb
-D:\Max\Projects\Gradebook\Repository\bin\Debug\Gradebook.DataAccessLayer.Models.dll
-D:\Max\Projects\Gradebook\Repository\bin\Debug\Gradebook.DataAccessLayer.Models.pdb
-D:\Max\Projects\Gradebook\Repository\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
-D:\Max\Projects\Gradebook\Repository\obj\Debug\Gradebook.RepositoryLayer.Repositories.dll
-D:\Max\Projects\Gradebook\Repository\obj\Debug\Gradebook.RepositoryLayer.Repositories.pdb
-D:\Max\Projects\Gradebook\Repository\obj\Debug\Repositories.csprojResolveAssemblyReference.cache

@@ -20,7 +20,7 @@ namespace Gradebook.DataAccessLayer.ConsoleClient
 
             using (DBAccess.DBAGradebook gradebook = new DBAccess.DBAGradebook(Properties.Settings.Default.GradebookDbConnection))
             {
-                foreach (User user in gradebook.Users.GetAll())
+                /*foreach (User user in gradebook.Users.GetAll())
                 {
                     Console.Write("  {0,-10}", "Id:");
                     Console.WriteLine("{0,-10}", user.Id);
@@ -55,6 +55,10 @@ namespace Gradebook.DataAccessLayer.ConsoleClient
 
                     Console.WriteLine();
                     Console.WriteLine();
+                }*/
+                foreach(Role role in gradebook.Roles.GetAllRoles())
+                {
+                    Console.WriteLine(role.Name);
                 }
             }
             Console.WriteLine();

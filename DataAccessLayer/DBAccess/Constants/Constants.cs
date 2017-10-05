@@ -2,6 +2,6 @@
 {
     internal static class Constants
     {
-        public const string ConnectionStringName = "GradebookDB";
+        public const string ConnectionStringName = "GradebookDbConnection";
     }
 }

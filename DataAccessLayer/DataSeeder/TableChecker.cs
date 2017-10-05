@@ -56,13 +56,13 @@ namespace Gradebook.DataAccessLayer.DataSeeder
             {
                 Name = "Guest"
             };
-            role1.Id = gradebook.Roles.Insert(role1);
+            role1.Id = gradebook.Roles.InsertRole(role1);
 
             Role role2 = new Role()
             {
                 Name = "SimpleUser"
             };
-            role2.Id = gradebook.Roles.Insert(role2);
+            role2.Id = gradebook.Roles.InsertRole(role2);
 
             role2.Name = "User";
             gradebook.Roles.Update(role2);
@@ -71,7 +71,7 @@ namespace Gradebook.DataAccessLayer.DataSeeder
             {
                 Name = "Moderator"
             };
-            role3.Id = gradebook.Roles.Insert(role3);
+            role3.Id = gradebook.Roles.InsertRole(role3);
             gradebook.Roles.Delete(role3);
         }
 
@@ -549,25 +549,25 @@ namespace Gradebook.DataAccessLayer.DataSeeder
             Role role1 = new Role() {
                 Name = "Guest"
             };
-            role1.Id = gradebook.Roles.Insert(role1);
+            role1.Id = gradebook.Roles.InsertRole(role1);
 
             Role role2 = new Role()
             {
                 Name = "User"
             };
-            role2.Id = gradebook.Roles.Insert(role2);
+            role2.Id = gradebook.Roles.InsertRole(role2);
 
             Role role3 = new Role()
             {
                 Name = "Moderator"
             };
-            role3.Id = gradebook.Roles.Insert(role3);
+            role3.Id = gradebook.Roles.InsertRole(role3);
 
             Role role4 = new Role()
             {
                 Name = "Administrator"
             };
-            role4.Id = gradebook.Roles.Insert(role4);
+            role4.Id = gradebook.Roles.InsertRole(role4);
 
             gradebook.Users.InsertUserRole(user1, role1);
             gradebook.Users.InsertUserRole(user1, role2);

@@ -22,5 +22,16 @@ namespace Gradebook.DataAccessLayer.DBAccess.Properties {
                 return defaultInstance;
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-39lugd9;Initial Catalog=Max.Gradebook;Integrated Security=Tru" +
+            "e")]
+        public string GradebookDbConnection {
+            get {
+                return ((string)(this["GradebookDbConnection"]));
+            }
+        }
     }
 }

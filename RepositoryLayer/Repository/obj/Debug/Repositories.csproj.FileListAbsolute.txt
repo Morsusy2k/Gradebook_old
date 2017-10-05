@@ -1,0 +1,16 @@
+D:\Max\Projects\Gradebook\Repository\bin\Debug\Gradebook.RepositoryLayer.Repositories.dll
+D:\Max\Projects\Gradebook\Repository\bin\Debug\Gradebook.RepositoryLayer.Repositories.pdb
+D:\Max\Projects\Gradebook\Repository\bin\Debug\Gradebook.DataAccessLayer.Models.dll
+D:\Max\Projects\Gradebook\Repository\bin\Debug\Gradebook.DataAccessLayer.Models.pdb
+D:\Max\Projects\Gradebook\Repository\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+D:\Max\Projects\Gradebook\Repository\obj\Debug\Gradebook.RepositoryLayer.Repositories.dll
+D:\Max\Projects\Gradebook\Repository\obj\Debug\Gradebook.RepositoryLayer.Repositories.pdb
+D:\Max\Projects\Gradebook\Repository\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\RepositoryLayer\Repository\bin\Debug\Gradebook.RepositoryLayer.Repositories.dll
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\RepositoryLayer\Repository\bin\Debug\Gradebook.RepositoryLayer.Repositories.pdb
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\RepositoryLayer\Repository\bin\Debug\Gradebook.DataAccessLayer.Models.dll
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\RepositoryLayer\Repository\bin\Debug\Gradebook.DataAccessLayer.Models.pdb
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\RepositoryLayer\Repository\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\RepositoryLayer\Repository\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\RepositoryLayer\Repository\obj\Debug\Gradebook.RepositoryLayer.Repositories.dll
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\RepositoryLayer\Repository\obj\Debug\Gradebook.RepositoryLayer.Repositories.pdb

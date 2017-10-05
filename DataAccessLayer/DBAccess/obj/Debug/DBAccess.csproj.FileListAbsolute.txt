@@ -16,3 +16,5 @@ D:\Max\Projects\Gradebook\DataAccessLayer\DBAccess\obj\Debug\DBAccess.csprojReso
 D:\Max\Projects\Gradebook\DataAccessLayer\DBAccess\obj\Debug\DBAccess.csproj.CoreCompileInputs.cache
 D:\Max\Projects\Gradebook\DataAccessLayer\DBAccess\obj\Debug\Gradebook.DataAccessLayer.DBAccess.dll
 D:\Max\Projects\Gradebook\DataAccessLayer\DBAccess\obj\Debug\Gradebook.DataAccessLayer.DBAccess.pdb
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DBAccess\bin\Debug\Gradebook.RepositoryLayer.Repositories.dll
+C:\Users\Morsus\Documents\GIT\Gradebook\Gradebook\DataAccessLayer\DBAccess\bin\Debug\Gradebook.RepositoryLayer.Repositories.pdb

@@ -19,7 +19,7 @@ namespace Gradebook.DataAccessLayer.DBAccess
             this.connection = new SqlConnection(_connectionString) ?? throw new ArgumentNullException("connection", "Valid connection is mandatory!");
         }
 
-        public IEnumerable<Role> GetAll()
+        /*public IEnumerable<Role> GetAll()
         {
             using (SqlCommand command = new SqlCommand("EXEC RoleGetAll", connection))
             {
@@ -32,9 +32,25 @@ namespace Gradebook.DataAccessLayer.DBAccess
                     return roles;
                 }
             }
+        }*/
+        public List<Role> GetAllRoles()
+        {
+            //connection.Open();
+            using (SqlCommand command = new SqlCommand("RoleInsert1", connection))
+            {
+                command.CommandType = CommandType.StoredProcedure;
+
+                using (SqlDataReader reader = command.ExecuteReader())
+                {
+                    List<Role> roles = new List<Role>();
+                    while (reader.Read())
+                        roles.Add(CreateRole(reader));
+                    return roles;
+                }
+            }
         }
 
-        public Role GetById(int id)
+        public Role GetRoleById(int id)
         {
             using (SqlCommand command = new SqlCommand("EXEC RoleGetById @Id", connection))
             {
@@ -68,7 +84,7 @@ namespace Gradebook.DataAccessLayer.DBAccess
             }
         }
 
-        public int Insert(Role role)
+        public void InsertRole(Role role)
         {
             if (role == null)
                 throw new ArgumentException("role", "Valid role is mandatory!");
@@ -81,7 +97,7 @@ namespace Gradebook.DataAccessLayer.DBAccess
             }
         }
 
-        public void Update(Role role)
+        public void UpdateRole(Role role)
         {
             if (role == null)
                 throw new ArgumentNullException("role", "Valid role is mandatory!");
@@ -95,7 +111,7 @@ namespace Gradebook.DataAccessLayer.DBAccess
             }
         }
 
-        public void Delete(Role role)
+        public void DeleteRole(Role role)
         {
             if (role == null)
                 throw new ArgumentNullException("role", "Valid role is mandatory!");
@@ -132,11 +148,11 @@ namespace Gradebook.DataAccessLayer.DBAccess
 
 
 //                        SqlParameter outputIdParam = new SqlParameter("@CompanyId", SqlDbType.Int);
-//outputIdParam.Direction = ParameterDirection.Output;
+//                        outputIdParam.Direction = ParameterDirection.Output;
 //                        sqlCommand.Parameters.Add(outputIdParam);
 
 //                        SqlParameter outputVersionParam = new SqlParameter("@Version", SqlDbType.Timestamp);
-//outputVersionParam.Direction = ParameterDirection.Output;
+//                        outputVersionParam.Direction = ParameterDirection.Output;
 //                        sqlCommand.Parameters.Add(outputVersionParam);
 
 //                        sqlCommand.ExecuteNonQuery();
